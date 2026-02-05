@@ -1,0 +1,11 @@
+# Power BI temp & cache files
+*.pbi
+*.pbix.tmp
+*.pbix.lock
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log

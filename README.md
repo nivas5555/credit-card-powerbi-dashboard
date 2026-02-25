@@ -1,13 +1,13 @@
-a# 💳 Credit Card Power BI Dashboard
+# Credit Card Power BI Dashboard
 
 This project presents an end-to-end **Credit Card Analytics solution** built using **Power BI**, focusing on both **customer profiling** and **transaction-level insights**.  
 It demonstrates data cleaning, modeling, DAX calculations, and interactive dashboard design following real-world analytics practices.
 
 ---
 
-## 📊 Dashboards Overview
+## Dashboards Overview
 
-### 1️⃣ Credit Card Customer Profile Dashboard
+### Credit Card Customer Profile Dashboard
 This dashboard focuses on **customer demographics and behavior**, helping stakeholders understand who their customers are.
 
 **Key Insights:**
@@ -30,7 +30,7 @@ This dashboard focuses on **customer demographics and behavior**, helping stakeh
 
 ---
 
-### 2️⃣ Credit Card Transaction Dashboard
+### Credit Card Transaction Dashboard
 This dashboard focuses on **financial performance and transaction trends**.
 
 **Key Insights:**
@@ -53,7 +53,7 @@ This dashboard focuses on **financial performance and transaction trends**.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
@@ -63,26 +63,7 @@ This dashboard focuses on **financial performance and transaction trends**.
 
 ---
 
-## 📁 Project Structure
-credit-card-powerbi-dashboard/
-│
-├── PowerBI_Dashboard/
-│ └── Dashboard.pbix
-│
-├── data/
-│ ├── raw/
-│ │ ├── customer.csv
-│ │ └── CreditCard.csv
-│ │
-│ └── processed/
-│ └── CreditCard_transformed.csv
-│
-└── .gitignore
-
-
----
-
-## 🔄 Data Preparation & Transformation
+## Data Preparation & Transformation
 
 - Fixed inconsistent **date formats** in transaction data
 - Converted week labels (e.g., `Week-12`) into numeric week numbers
@@ -94,7 +75,7 @@ credit-card-powerbi-dashboard/
 
 ---
 
-## 📈 Key DAX Measures (Examples)
+## Key DAX Measures (Examples)
 
 - Total Revenue
 - Current Week Revenue
@@ -105,7 +86,7 @@ credit-card-powerbi-dashboard/
 
 ---
 
-## 🎯 Business Value
+## Business Value
 
 This project helps stakeholders:
 - Identify high-value customer segments
